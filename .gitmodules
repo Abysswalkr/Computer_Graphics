@@ -1,0 +1,27 @@
+[submodule "Lab1_FillingPolygon"]
+	path = Lab1_FillingPolygon
+	url = https://github.com/Abysswalkr/Lab1_FillingPolygon.git
+[submodule "R1_Lines_Object_Models"]
+	path = R1_Lines_Object_Models
+	url = https://github.com/Abysswalkr/R1_Lines_Object_Models.git
+[submodule "R2_Cameras"]
+	path = R2_Cameras
+	url = https://github.com/Abysswalkr/R2_Cameras.git
+[submodule "R3_Textures"]
+	path = R3_Textures
+	url = https://github.com/Abysswalkr/R3_Textures.git
+[submodule "Lab2_Shaders"]
+	path = Lab2_Shaders
+	url = https://github.com/Abysswalkr/Lab2_Shaders.git
+[submodule "Proyecto1_Rasterizer"]
+	path = Proyecto1_Rasterizer
+	url = https://github.com/Abysswalkr/Proyecto1_Rasterizer.git
+[submodule "RT1_Spheres--Materials---Phong-Shading"]
+	path = RT1_Spheres--Materials---Phong-Shading
+	url = https://github.com/Abysswalkr/RT1_Spheres--Materials---Phong-Shading.git
+[submodule "RT2-Opaque-Reflective-RefractiveMaterials"]
+	path = RT2-Opaque-Reflective-RefractiveMaterials
+	url = https://github.com/Abysswalkr/RT2-Opaque-Reflective-RefractiveMaterials.git
+[submodule "RT3_Planes-Disks-Cubes"]
+	path = RT3_Planes-Disks-Cubes
+	url = https://github.com/Abysswalkr/RT3_Planes-Disks-Cubes.git
