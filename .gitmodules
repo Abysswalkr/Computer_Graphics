@@ -25,3 +25,9 @@
 [submodule "RT3_Planes-Disks-Cubes"]
 	path = RT3_Planes-Disks-Cubes
 	url = https://github.com/Abysswalkr/RT3_Planes-Disks-Cubes.git
+[submodule "Lab-3_RayIntersect-Algorithm-NewShapes"]
+	path = Lab-3_RayIntersect-Algorithm-NewShapes
+	url = https://github.com/Abysswalkr/Lab-3_RayIntersect-Algorithm-NewShapes
+[submodule "Proyecto2_RayTracer"]
+	path = Proyecto2_RayTracer
+	url = https://github.com/Abysswalkr/Proyecto2_RayTracer
