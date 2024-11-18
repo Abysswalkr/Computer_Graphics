@@ -31,3 +31,12 @@
 [submodule "Proyecto2_RayTracer"]
 	path = Proyecto2_RayTracer
 	url = https://github.com/Abysswalkr/Proyecto2_RayTracer
+[submodule "activities/Lab4_ShadersII"]
+	path = activities/Lab4_ShadersII
+	url = https://github.com/Abysswalkr/Lab4_ShadersII.git
+[submodule "activities/OGL1_ModelViewer"]
+	path = activities/OGL1_ModelViewer
+	url = https://github.com/Abysswalkr/OGL1_ModelViewer.git
+[submodule "activities/Proyecto3_OpenGL"]
+	path = activities/Proyecto3_OpenGL
+	url = https://github.com/Abysswalkr/Proyecto3--OpenGL.git
