@@ -40,3 +40,12 @@
 [submodule "activities/Proyecto3_OpenGL"]
 	path = activities/Proyecto3_OpenGL
 	url = https://github.com/Abysswalkr/Proyecto3--OpenGL.git
+[submodule "Lab4_ShadersII"]
+	path = Lab4_ShadersII
+	url = https://github.com/Abysswalkr/Lab4_ShadersII.git
+[submodule "OGL1_ModelViewer"]
+	path = OGL1_ModelViewer
+	url = https://github.com/Abysswalkr/OGL1_ModelViewer.git
+[submodule "Proyecto3_OpenGL"]
+	path = Proyecto3_OpenGL
+	url = https://github.com/Abysswalkr/Proyecto3--OpenGL.git
